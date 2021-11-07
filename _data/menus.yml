@@ -1,20 +1,20 @@
-- title: home
+- title: Home
   url: /
   external: false
 
-- title: search
+- title: Search
   url: /archive/
   external: false
 
-- title: search by tags
+- title: Search by Tags
   url: /tags/
   external: false
 
-- title: about
+- title: About
   url: https://mustious.github.io/about.html
   external: true # set true if you using external link, see below
 
-- title: portfolio
+- title: Portfolio
   url: https://mustious.github.io
   external: true # set true if you using external link, see below
 
