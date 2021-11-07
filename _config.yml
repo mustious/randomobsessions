@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/zenitsu.jpg # change with your own avatar
 
 # URL settings
-url: "https://mustious.github.io/randomobsessions/" #
+url: "https://randomobsessions.netlify.app/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
