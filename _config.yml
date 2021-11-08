@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Random 0besessions # author name
+  name: Random 0bsessions # author name
   bio: >- # tell to the world
     A blog on machine learning, reinforcement learning, adventures called 'Life' and other random stuff
   username: mustious # general username
